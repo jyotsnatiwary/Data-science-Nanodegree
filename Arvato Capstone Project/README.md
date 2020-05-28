@@ -10,7 +10,7 @@ This project to predicts that which individuals are most likely to convert into 
 
 ## Results of the analysis
 
-Results and discussion: Scrutinizing Customer Segmentation for Arvato Financial Services] https://medium.com/@jtiwary0503/scrutinizing-customer-segmentation-for-arvato-financial-services-6a00981d8068
+Results and discussion: Scrutinizing Customer Segmentation for Arvato Financial Services] https://medium.com/@jtiwary0503/scrutinizing-customer-segmentation-for-arvato-financial-services-948f87474996
 
 In this blog, we dive into a real life machine learning project provided by Arvato Financial Solutions, a Bertelsmann subsidiary:
 - Investigated Demographics data of general population of Germany and data for customers of a mail-order company.
